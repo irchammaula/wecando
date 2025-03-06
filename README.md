@@ -14,4 +14,3 @@ Backend: Laravel 11, PHP 8+
 Frontend: Blade, Tailwind CSS
 Database: MySQL
 Payment Gateway: Tripay
-API: Turnitin, iLovePDF
